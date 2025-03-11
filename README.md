@@ -15,7 +15,7 @@ The app incorporates ```Bloom’s Taxonomy``` learning methodology, offering six
 - ```Vuforia v10.29.6```
   
 ### Key Features
-- **Augmented Reality**: View 3D anatomical models with interactive elements.
+- **Augmented Reality (Markerless based)**: View 3D anatomical models with interactive elements.
 - **Quizzes**: Includes **pre-test and post-test** assessments.
 - **Progress Tracking**: Unlock stages progressively based on quiz performance.
 - **Educational Content**: Covers **Female Reproductive System, Male Reproductive System, and Human Organs**.

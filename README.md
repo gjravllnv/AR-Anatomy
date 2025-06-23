@@ -32,6 +32,7 @@ Discover and experience ARnatomy! Dive into the world of augmented reality and e
 - **RAM**: 3GB or more
 - **Storage**: At least 500MB free space
 - **Camera**: Required for AR functionality
+- **AR Core**: AR Markerless experience
 
 ### Recommended Requirements:
 - **OS**: Android 10 or later

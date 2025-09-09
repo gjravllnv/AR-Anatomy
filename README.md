@@ -24,18 +24,18 @@ The app incorporates ```Bloom’s Taxonomy``` learning methodology, offering six
 ## Installation
 Discover and experience ARnatomy! Dive into the world of augmented reality and explore human anatomy like never before.
 
-🔗 [Download ARnatomy now!](https://www.mediafire.com/file/0otybdau3acpg40/ARnatomy.apk/file)
+🔗 [Download ARnatomy now!](https://www.mediafire.com/file/yw5dfy867zxdlot/ARnatomy.apk/file)
 
 ## System Requirements
 ### Minimum Requirements:
-- **OS**: Android 8.0 (Oreo) or later
+- **OS**: Android 10.0 or later
 - **RAM**: 3GB or more
 - **Storage**: At least 500MB free space
 - **Camera**: Required for AR functionality
 - **AR Core**: AR Markerless experience
 
 ### Recommended Requirements:
-- **OS**: Android 10 or later
+- **OS**: Android 11 or later
 - **RAM**: 4GB or more
 - **Storage**: At least 1GB free space
 - **Camera**: High-resolution camera for optimal AR experience
